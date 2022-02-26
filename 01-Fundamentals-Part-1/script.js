@@ -435,6 +435,8 @@ GOOD LUCK 😀
 // ASSIGNMENT
 ////////////////////////////////////
 
+/*
+
 //LECTURE: Values and Variables
 console.log("--- LECTURE: Values and Variables ---");
 let country = "Vietnam";
@@ -543,3 +545,5 @@ console.log("--- LECTURE: The Conditional (Ternary) Operator ---");
 console.log(
   `${country}'s population is ${population > 33 ? "above" : "below"} average`
 );
+
+*/
